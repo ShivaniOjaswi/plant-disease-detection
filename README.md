@@ -1,5 +1,3 @@
-# plant-disease-detection
-
 # PlantIn - Plant Disease Identifier
 
 A web application that identifies plant diseases from images using machine learning.
